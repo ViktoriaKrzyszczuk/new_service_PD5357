@@ -1,0 +1,12 @@
+
+Ankieta dla pacjentów:
+
+1. Czy korzystałeś wcześniej z rehabilitacji domowej? (tak/nie)
+
+2. Jak oceniasz możliwość wykonywania ćwiczeń rehabilitacyjnych w domu?
+
+3. Czy aplikacja mobilna ułatwiłaby Ci regularne wykonywanie ćwiczeń? (tak/nie)
+
+4. Jakie funkcje aplikacji byłyby dla Ciebie najbardziej przydatne?
+
+5. Czy chciałbyś mieć możliwość kontaktu z fizjoterapeutą przez aplikację? (tak/nie)
