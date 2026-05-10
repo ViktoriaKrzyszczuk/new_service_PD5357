@@ -1,0 +1,12 @@
+
+Potencjalne ryzyka:
+
+1. Problemy techniczne związane z działaniem aplikacji mobilnej.
+
+2. Brak regularnego wykonywania ćwiczeń przez pacjentów.
+
+3. Ryzyko wycieku danych medycznych użytkowników.
+
+4. Ograniczony dostęp do internetu u części pacjentów.
+
+5. Możliwość błędnego wykonywania ćwiczeń bez bezpośredniego nadzoru specjalisty.
