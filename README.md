@@ -16,7 +16,7 @@ W repozytorium znajdują się następujące pliki:
 
 - `plan_wdrożenia.txt` – harmonogram wdrożenia projektu,
 
-- `ryzyka.txt` – analiza potencjalnych ryzyk,
+- `ryzyka.txt` – analiza potencjalnego ryzyka,
 
 - `kampania_marketingowa.txt` – plan kampanii promocyjnej,
 
