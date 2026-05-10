@@ -1,0 +1,17 @@
+
+Etapy wdrożenia:
+
+1. Opracowanie aplikacji mobilnej oraz interfejsu użytkownika - do 30 czerwca 2026 r.
+
+2. Przygotowanie materiałów i planów ćwiczeń rehabilitacyjnych - do 31 lipca 2026 r.
+
+3. Integracja systemu monitorowania postępów pacjentów - do 15 sierpnia 2026 r.
+
+4. Testy funkcjonalności oraz bezpieczeństwa danych medycznych - do 31 sierpnia 2026 r.
+
+5. Szkolenie fizjoterapeutów i personelu medycznego - do 10 września 2026 r.
+
+6. Kampania promocyjna usługi w mediach społecznościowych i placówkach medycznych - do 20
+września 2026 r.
+
+7. Oficjalne uruchomienie platformy dla pacjentów - 30 września 2026 r.

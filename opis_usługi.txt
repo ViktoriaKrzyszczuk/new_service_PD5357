@@ -1,0 +1,14 @@
+
+Nazwa usługi: Platforma mobilnej rehabilitacji domowej
+
+Opis:
+Platforma mobilnej rehabilitacji domowej to nowoczesna usługa medyczna wspierająca pacjentów w procesie rehabilitacji po urazach, operacjach oraz kontuzjach. System umożliwia dostęp do indywidualnych planów ćwiczeń, monitorowanie postępów leczenia oraz kontakt z fizjoterapeutą za pomocą aplikacji mobilnej.
+
+Pacjenci mogą wykonywać ćwiczenia w domu, korzystając z materiałów instruktażowych oraz zaleceń specjalistów dostępnych w aplikacji.
+
+Cele:
+- Ułatwienie pacjentom dostępu do rehabilitacji domowej.
+- Zwiększenie regularności wykonywania ćwiczeń rehabilitacyjnych.
+- Monitorowanie postępów leczenia na odległość.
+- Ograniczenie liczby wizyt kontrolnych w placówkach medycznych.
+- Poprawa komfortu i wygody pacjentów.
